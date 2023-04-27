@@ -3,7 +3,7 @@ layout: post
 title:  "Movie It"
 summary: "Did Absolutely Everything"
 date:   2022-09-06 15:39:40
-preview: /assets/postpreview.png
+preview: /assets/moveitLogo.png
 ---
 
 ![Picture 1](/assets/moveitTitle.png)
