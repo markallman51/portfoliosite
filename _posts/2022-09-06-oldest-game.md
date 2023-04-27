@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Oldest Game"
-summary: "Design Intern"
+title:  "Movie It"
+summary: "Did Absolutely Everything"
 date:   2022-09-06 15:39:40
 preview: /assets/postpreview.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/moveitTitle.png)
 
-Put down info here, either in bullets or paragraphs.
+[Gameplay](https://youtu.be/0ogX8SOqr9Q)
+* One of my first game projects.
+* Designed around a simple progression system: reach the goal, select an upgrade, use the upgrade to reach the next goal.
+* The upgrade system, increasingly colorful background, and swelling music were designed to make the player feel more awesome as they play.
