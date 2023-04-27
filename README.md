@@ -5,7 +5,7 @@
 Here is a sample of what a portfolio might look like with this theme: [https://gamingportfolio.github.io/](https://gamingportfolio.github.io/). The repository for the sample page is [here](https://github.com/gamingportfolio/gamingportfolio.github.io).
 
 ## Setting up on GitHub Pages
-
+[My site link](https://markallman51.github.io/portfoliosite/)
 1. If you do not have a GitHub account yet, create one and login with it
 2. From the [gamingportfolio/template](gamingportfolio/template) page on GitHub, select "Use this template" and click "Create a new repository":
    ![Use this template](_docs/1.png)
